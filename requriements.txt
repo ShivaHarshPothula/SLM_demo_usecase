@@ -1,0 +1,5 @@
+langgraph>=0.2
+langchain>=0.2
+langchain-ollama>=0.1
+typing-extensions>=4.0.0
+psutil>=5.9
